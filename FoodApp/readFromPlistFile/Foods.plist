@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+	<dict>
+		<key>Name</key>
+		<string>barries</string>
+		<key>Des</key>
+		<string>Blueberries are rich in fiber, antioxidants, and phytonutrients. Unlike minerals and vitamins, phytonutrients are not essential for keeping us alive. However, they may help prevent disease and keep the body working properly.</string>
+        
+		<key>img</key>
+		<string>barries</string>
+	</dict>
+    
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>broccoli</string>
+        <key>Des</key>
+        <string> Broccoli shares cancer fighting and immune boosting properti.</string>
+        <key>img</key>
+        <string>broccoli</string>
+    </dict>
+    
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>eggs</string>
+        <key>Des</key>
+        <string>Eggs are another source of protein that can easily be incorporated into a balanced diet. Being very versatile, they can be added to many meals - not just breakfast.</string>
+        <key>img</key>
+        <string>eggs</string>
+    </dict>
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>fruits</string>
+        <key>Des</key>
+        <string> Fruits should be an important part of your daily diet. They are naturally good and contain vitamins and minerals that can help to keep you healthy. They can also help protect against some diseases</string>
+        <key>img</key>
+        <string>fruits</string>
+    </dict>
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>kale</string>
+        <key>Des</key>
+        <string> "Kale is a very underrated leafy green. There are a lot of different nutrients contained within the leaves of kale.</string>
+        <key>img</key>
+        <string>kale</string>
+    </dict>
+    
+    
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>salmon</string>
+        <key>Des</key>
+        <string>"Fish and shellfish have been important in human nutrition since prehistoric times. Fish farming is an age old practice and the ancient Assyrians and Romans farmed fish in ponds.</string>
+        <key>img</key>
+        <string>salmon</string>
+    </dict>
+    
+    
+    
+
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>tomato</string>
+        <key>Des</key>
+        <string>"While tomatoes are filled with antioxidants and Vitamin C, they also contain beneficial phytochemicals such as lycopene, which contribute to chronic diseases—especially cancer.</string>
+        <key>img</key>
+        <string>tomato</string>
+    </dict>
+    
+    
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>walnuts</string>
+        <key>Des</key>
+        <string>One-quarter cup of walnuts, for instance, provides more than 100 percent of the daily recommended value of plant-based omega-3 fats, along with high amounts of copper, manganese, molybdenum, and biotin</string>
+        <key>img</key>
+        <string>walnuts</string>
+    </dict>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>eggs</string>
+        <key>Des</key>
+        <string>Eggs are another source of protein that can easily be incorporated into a balanced diet. Being very versatile, they can be added to many meals - not just breakfast.</string>
+        <key>img</key>
+        <string>eggs</string>
+    </dict>
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>walnuts</string>
+        <key>Des</key>
+        <string>One-quarter cup of walnuts, for instance, provides more than 100 percent of the daily recommended value of plant-based omega-3 fats, along with high amounts of copper, manganese, molybdenum, and biotin</string>
+        <key>img</key>
+        <string>walnuts</string>
+    </dict>
+    
+    
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>tomato</string>
+        <key>Des</key>
+        <string>"While tomatoes are filled with antioxidants and Vitamin C, they also contain beneficial phytochemicals such as lycopene, which contribute to chronic diseases—especially cancer.</string>
+        <key>img</key>
+        <string>tomato</string>
+    </dict>
+    
+    
+    
+    <dict>
+        <key>Name</key>
+        <string>kale</string>
+        <key>Des</key>
+        <string> "Kale is a very underrated leafy green. There are a lot of different nutrients contained within the leaves of kale.</string>
+        <key>img</key>
+        <string>kale</string>
+    </dict>
+    
+    
+    
+    
+    
+</array>
+</plist>
